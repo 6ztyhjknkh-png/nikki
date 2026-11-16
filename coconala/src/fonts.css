@@ -1,0 +1,8 @@
+/* フォントは npm i @fontsource/dela-gothic-one @fontsource/m-plus-rounded-1c @fontsource/noto-sans-jp @fontsource/zen-maru-gothic で入れ、下のパスを入れた場所に合わせる */
+@import url("file:///tmp/claude-0/-home-user-nikki/6477a487-7148-5e05-8a5b-2f7aa5aad337/scratchpad/fonts/node_modules/@fontsource/dela-gothic-one/400.css");
+@import url("file:///tmp/claude-0/-home-user-nikki/6477a487-7148-5e05-8a5b-2f7aa5aad337/scratchpad/fonts/node_modules/@fontsource/m-plus-rounded-1c/500.css");
+@import url("file:///tmp/claude-0/-home-user-nikki/6477a487-7148-5e05-8a5b-2f7aa5aad337/scratchpad/fonts/node_modules/@fontsource/m-plus-rounded-1c/800.css");
+@import url("file:///tmp/claude-0/-home-user-nikki/6477a487-7148-5e05-8a5b-2f7aa5aad337/scratchpad/fonts/node_modules/@fontsource/noto-sans-jp/500.css");
+@import url("file:///tmp/claude-0/-home-user-nikki/6477a487-7148-5e05-8a5b-2f7aa5aad337/scratchpad/fonts/node_modules/@fontsource/noto-sans-jp/900.css");
+@import url("file:///tmp/claude-0/-home-user-nikki/6477a487-7148-5e05-8a5b-2f7aa5aad337/scratchpad/fonts/node_modules/@fontsource/zen-maru-gothic/700.css");
+@import url("file:///tmp/claude-0/-home-user-nikki/6477a487-7148-5e05-8a5b-2f7aa5aad337/scratchpad/fonts/node_modules/@fontsource/zen-maru-gothic/900.css");
